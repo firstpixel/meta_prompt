@@ -1,7 +1,7 @@
 
 # META PROMPT GPT5 THINKING and 4o
 
-https://chatgpt.com/share/68b10f2b-f6fc-8004-bb81-d43ffe85c404
+https://chatgpt.com/share/68b1eab9-eda0-8004-bcba-343e5348a624
 
 ## TEST 1
 https://chatgpt.com/share/68b11289-8490-8004-b265-4f5ac21f4e94?model=gpt-4o
